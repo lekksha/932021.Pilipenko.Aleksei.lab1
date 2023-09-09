@@ -24,3 +24,6 @@ CSS свойства: `margin, padding, border, width, height, min-height, min-w
 <https://validator.w3.org>
 
 <http://jigsaw.w3.org/css-validator/>
+
+## Пример работы:
+![images.png](images.png)
