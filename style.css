@@ -34,7 +34,7 @@ td
 }
 
 header {
-    font-family: "Courier New";
+    font-family: "Courier New", sans-serif;
     background-color: green;
     color: white;
     text-align: center;
@@ -45,7 +45,7 @@ header {
 footer {
     background-color: green;
     color: white;
-    font-family: "Arial";
+    font-family: "Arial", sans-serif;
     text-align: center;
     padding: 10px;
     margin: 0;
